@@ -6,12 +6,7 @@ The application fetches real-time weather data using a public weather API and di
 ## Features
 Features
 
-Search weather by city name
-Displays current temperature (°C)
-Shows humidity and wind speed
-Weather condition (Clear, Cloudy, Rain, etc.)
-User-friendly Tkinter GUI
-Handles invalid city names and API errors
+Search weather by city name, Displays current temperature (°C), Shows humidity and wind speed, Weather condition (Clear, Cloudy, Rain, etc.), User-friendly Tkinter GUI and Handles invalid city names and API errors
 
 
 This Project is a Part of Pinicale Labs Internship.
